@@ -1,8 +1,10 @@
-package security.service;
+package com.example.spring.security.service;
 
-import com.spring.security.model.User;
-import com.spring.security.web.dto.UserRegistrationDto;
 import org.springframework.security.core.userdetails.UserDetailsService;
+
+import com.example.spring.security.model.User;
+
+import com.example.spring.security.web.dto.UserRegistrationDto;
 
 public interface UserService extends UserDetailsService {
 

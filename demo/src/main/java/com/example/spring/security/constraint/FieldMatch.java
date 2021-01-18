@@ -1,4 +1,4 @@
-package security.constraint;
+package com.example.spring.security.constraint;
 
 import javax.validation.Payload;
 import javax.validation.Constraint;
