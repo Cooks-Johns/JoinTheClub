@@ -1,4 +1,4 @@
-package security.model;
+package com.example.spring.security.model;
 
 import javax.persistence.*;
 import java.util.Collection;

@@ -1,4 +1,4 @@
-package security.web.dto;
+package com.example.spring.security.web;
 
 import com.example.spring.security.constraint.FieldMatch;
 import org.hibernate.validator.constraints.Email;

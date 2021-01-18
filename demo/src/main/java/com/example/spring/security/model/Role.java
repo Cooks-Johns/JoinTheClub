@@ -1,4 +1,4 @@
-package security.model;
+package com.example.spring.security.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
